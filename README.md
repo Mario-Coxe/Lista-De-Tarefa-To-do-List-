@@ -2,8 +2,8 @@
 
 Este é um projeto React Native.
 
-![Imagem do Projeto 1]([url_da_imagem_1](https://github.com/Mario-Coxe/Lista-De-Tarefa-To-do-List-/blob/main/src/assets/img/ToDoList1.png))
-![Imagem do Projeto 2]([url_da_imagem_2](https://github.com/Mario-Coxe/Lista-De-Tarefa-To-do-List-/blob/main/src/assets/img/ToDoList2.png))
+![Imagem do Projeto 1](https://github.com/Mario-Coxe/Lista-De-Tarefa-To-do-List-/blob/main/src/assets/img/ToDoList1.png)
+![Imagem do Projeto 2](https://github.com/Mario-Coxe/Lista-De-Tarefa-To-do-List-/blob/main/src/assets/img/ToDoList2.png)
 
 ## Começando
 
