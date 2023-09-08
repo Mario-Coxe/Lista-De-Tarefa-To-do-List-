@@ -24,3 +24,7 @@ Para Android:
 npm run android
 # OU
 yarn android
+```
+
+ **GUIA PARA FAZER DE FORMA SIMPLES
+https://mariocoxe0.medium.com/criar-uma-to-do-list-9628c2c801bc
